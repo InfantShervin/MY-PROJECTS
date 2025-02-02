@@ -1,4 +1,4 @@
-# MY-PROJECT
+# Demo
 My project is sentiment analyzer.
 
 Below is demo video link of my project:
